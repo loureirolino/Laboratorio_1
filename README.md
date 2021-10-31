@@ -1,4 +1,4 @@
-# Laboratorio_1
+# Educação Superior - Subgrupo 1
 
 Trabalho de Conclusão da Disciplina Laboratório de Estatística 1 da Universidade de Brasília.
 
